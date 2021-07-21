@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-07-20-mastermaths/",
+    "title": "Mastering Mathematics",
+    "description": "How to master mathematics.",
+    "author": [
+      {
+        "name": "George Mathworks",
+        "url": {}
+      }
+    ],
+    "date": "2021-07-20",
+    "categories": [],
+    "contents": "\r\nThis is where i will be posting about the recipe for mastering mathematics.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-07-20-mastermaths/mastermaths.png",
+    "last_modified": "2021-07-20T13:56:14+02:00",
+    "input_file": {}
+  }
+]

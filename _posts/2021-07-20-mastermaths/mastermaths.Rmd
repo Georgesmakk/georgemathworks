@@ -1,0 +1,21 @@
+---
+title: "Mastering Mathematics"
+description: |
+  How to master mathematics.
+author:
+  - name: George Mathworks
+date: 07-20-2021
+preview: mastermaths.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is where i will be posting about the recipe for mastering mathematics.
+
+

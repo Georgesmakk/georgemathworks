@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-07-21T08:32:12+02:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-07-21T08:32:14+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "George Mathworks",
+      "author": [],
+      "contents": "\r\n\r\nAbout Me::\r\nYoung versatile and goal oriented\r\nEducation::\r\nBachelor Of Science (Hons) In Applied Mathematics\r\nAbout Maths::\r\nThe art of logical ideas which when knit correctly with the correct objectives can give a variety of insights which lead to intuitive decision making.\r\nIdea::\r\nTo disseminate the knowledge acquired in pure maths and statistics via face to face and online-classes with the view of reaching out to many who are challenged and some limited by different obstacles . A lesson done once can be visited again several times with the hope of eliminating negativity towards the subject and erasing doubt on some concepts.\r\nSkills\r\nData Analytics\r\n\r\n\r\n",
+      "last_modified": "2021-07-21T08:32:15+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

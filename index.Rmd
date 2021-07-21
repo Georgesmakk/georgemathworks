@@ -1,0 +1,36 @@
+---
+title: "George Mathworks"
+links: 
+ description: |
+  Welcome to the GMathworks website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(rmarkdown)
+
+```
+
+![](glogo.PNG){width=20px}
+
+
+## About Me::
+
+Young versatile and goal oriented
+
+## Education::
+
+Bachelor Of Science (Hons) In Applied Mathematics
+
+## About Maths::
+
+The art of logical ideas which when knit correctly with the correct objectives can give a variety of insights which lead to intuitive decision making.
+
+## Idea::
+
+To disseminate the knowledge acquired in pure maths and statistics via face to face and online-classes with the view of reaching out to many who are challenged and some limited by different obstacles . A lesson done once can be visited again several times with the hope of eliminating negativity towards the subject and erasing doubt on some concepts.
+
+## Skills
+
+![Data Analytics](Rlogo.PNG){width=10px}

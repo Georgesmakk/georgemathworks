@@ -18,3 +18,4 @@ navbar:
       href: https://wa.link/6c02rd
       
 output: distill::distill_article
+theme: "george-theme.css"

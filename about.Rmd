@@ -1,5 +1,5 @@
 ---
-title: "About this site"
+title: "About"
 description: |
   Some additional details about the website
 ---
@@ -7,4 +7,20 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+# A VIBRANT MATHEMATICS TUTOR
+
+### AIM: To provide Mathematics tutorials to students at different levels and creating a society of critical thinkers equiped with problem solving abilities.
+
+### HISTORY: Have offered the tutorials for over 2 years to different leaners and yielded positive results.
+
+# SERVICES
+
+### * Pure Mathematics Tutorials(Matric)
+
+### * Data Analysis and research assistance
+
+### * University Courses Tutorials (DSC 1520, BNU 1501,STATS 1501)
+
+
 

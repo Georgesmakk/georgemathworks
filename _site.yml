@@ -16,6 +16,8 @@ navbar:
       href: https://www.youtube.com/channel/UCgRIsTea1tOuRdtXSfE2JXQ
     - text: "Enquiries"
       href: https://wa.link/6c02rd
+    - text: "StudentInformationForm"
+      href: https://forms.gle/WDPrv8JkR8JaekC16
       
 output: distill::distill_article
 theme: "george-theme.css"
